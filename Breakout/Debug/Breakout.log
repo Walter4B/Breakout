@@ -1,11 +1,6 @@
-﻿  Breakout.cpp
-  GameSetup.cpp
-  tinyxml2.cpp
-  Working.cpp
+﻿  Working.cpp
 D:\Projects\Breakout\Breakout\Working.cpp(94,6): warning C4101: 'scoreValue': unreferenced local variable
 D:\Projects\Breakout\Breakout\Working.cpp(91,6): warning C4101: 'widthPX': unreferenced local variable
 D:\Projects\Breakout\Breakout\Working.cpp(92,6): warning C4101: 'heightPX': unreferenced local variable
 D:\Projects\Breakout\Breakout\Working.cpp(93,6): warning C4101: 'hitPoints': unreferenced local variable
-  XMLDataParser.cpp
-  Generating Code...
   Breakout.vcxproj -> D:\Projects\Breakout\Debug\Breakout.exe
