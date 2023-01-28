@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\walter\Desktop\C++\Breakout\Breakout\</FILEPATH>
+      <FILENAME>tinyxml2.h</FILENAME>
+      <LINE>1348</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'tinyxml2::XMLError' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>tinyxml2::XMLElement::QueryIntAttribute</FUNCTION>
+    <DECORATED>?QueryIntAttribute@XMLElement@tinyxml2@@QBE?AW4XMLError@2@PBDPAH@Z</DECORATED>
+    <FUNCLINE>1343</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\walter\Desktop\C++\Breakout\Breakout\</FILEPATH>
+      <FILENAME>tinyxml2.h</FILENAME>
+      <LINE>1677</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'tinyxml2::XMLElement::ElementClosingType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>tinyxml2::XMLElement::ClosingType</FUNCTION>
+    <DECORATED>?ClosingType@XMLElement@tinyxml2@@QBE?AW4ElementClosingType@12@XZ</DECORATED>
+    <FUNCLINE>1676</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\walter\Desktop\C++\Breakout\Breakout\</FILEPATH>
+      <FILENAME>tinyxml2.h</FILENAME>
+      <LINE>1792</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'tinyxml2::Whitespace' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>tinyxml2::XMLDocument::WhitespaceMode</FUNCTION>
+    <DECORATED>?WhitespaceMode@XMLDocument@tinyxml2@@QBE?AW4Whitespace@2@XZ</DECORATED>
+    <FUNCLINE>1791</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
